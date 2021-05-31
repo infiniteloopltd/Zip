@@ -1,0 +1,16 @@
+C:\Users\fiach\source\repos\PartialZip\obj\Debug\netcoreapp3.1\PartialZip.csprojAssemblyReference.cache
+C:\Users\fiach\source\repos\PartialZip\obj\Debug\netcoreapp3.1\PartialZip.AssemblyInfoInputs.cache
+C:\Users\fiach\source\repos\PartialZip\obj\Debug\netcoreapp3.1\PartialZip.AssemblyInfo.cs
+C:\Users\fiach\source\repos\PartialZip\obj\Debug\netcoreapp3.1\PartialZip.csproj.CoreCompileInputs.cache
+C:\Users\fiach\source\repos\PartialZip\bin\Debug\netcoreapp3.1\PartialZip.exe
+C:\Users\fiach\source\repos\PartialZip\bin\Debug\netcoreapp3.1\PartialZip.deps.json
+C:\Users\fiach\source\repos\PartialZip\bin\Debug\netcoreapp3.1\PartialZip.runtimeconfig.json
+C:\Users\fiach\source\repos\PartialZip\bin\Debug\netcoreapp3.1\PartialZip.runtimeconfig.dev.json
+C:\Users\fiach\source\repos\PartialZip\bin\Debug\netcoreapp3.1\PartialZip.dll
+C:\Users\fiach\source\repos\PartialZip\bin\Debug\netcoreapp3.1\PartialZip.pdb
+C:\Users\fiach\source\repos\PartialZip\obj\Debug\netcoreapp3.1\PartialZip.dll
+C:\Users\fiach\source\repos\PartialZip\obj\Debug\netcoreapp3.1\PartialZip.pdb
+C:\Users\fiach\source\repos\PartialZip\obj\Debug\netcoreapp3.1\PartialZip.genruntimeconfig.cache
+C:\Users\fiach\source\repos\PartialZip\bin\Debug\netcoreapp3.1\hello.zip
+C:\Users\fiach\source\repos\PartialZip\bin\Debug\netcoreapp3.1\hello2.zip
+C:\Users\fiach\source\repos\PartialZip\bin\Debug\netcoreapp3.1\hello3.zip

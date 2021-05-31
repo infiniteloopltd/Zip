@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialZip", "PartialZip.csproj", "{518B85F3-0C79-4EE2-8E5D-FAC918611A8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDF-Decoder", "..\PDF-Decoder\PDF-Decoder.csproj", "{517BAF2E-5F1C-4F48-944A-36B8A6AF3C9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{518B85F3-0C79-4EE2-8E5D-FAC918611A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{518B85F3-0C79-4EE2-8E5D-FAC918611A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{518B85F3-0C79-4EE2-8E5D-FAC918611A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{518B85F3-0C79-4EE2-8E5D-FAC918611A8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{517BAF2E-5F1C-4F48-944A-36B8A6AF3C9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517BAF2E-5F1C-4F48-944A-36B8A6AF3C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517BAF2E-5F1C-4F48-944A-36B8A6AF3C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517BAF2E-5F1C-4F48-944A-36B8A6AF3C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2610298-9475-41B1-9681-CF439EAF248C}
+	EndGlobalSection
+EndGlobal
